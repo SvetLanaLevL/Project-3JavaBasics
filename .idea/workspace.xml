@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a5709c9-c3cf-4efa-8c7b-fd16d15d69ee" name="Changes" comment="">
+    <list default="true" id="6a5709c9-c3cf-4efa-8c7b-fd16d15d69ee" name="Changes" comment="Project3BasicJava">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +92,19 @@
       <option name="presentableId" value="Default" />
       <updated>1710866520834</updated>
     </task>
+    <task id="LOCAL-00001" summary="Project3BasicJava">
+      <option name="closed" value="true" />
+      <created>1710894593780</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710894593780</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project3BasicJava" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project3BasicJava" />
   </component>
 </project>
